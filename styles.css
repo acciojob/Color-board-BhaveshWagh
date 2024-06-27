@@ -20,7 +20,7 @@ body {
 .square {
     width: 20px;
     height: 20px;
-	background-color:#1c1d1c;
+	background-color:rgb(29,29,29);
     /* background-color: #ffffff; */
     /* transition: background-color 1s; */
 }
