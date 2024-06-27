@@ -23,7 +23,7 @@ function changeColor(element) {
     element.style.backgroundColor = randomColor;
 
     setTimeout(() => {
-        element.style.backgroundColor = '#ffffff';
+        element.style.backgroundColor = 'rgb(29,29,29)';
     }, 1000); // Revert after 1 second
 }
 
